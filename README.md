@@ -1,6 +1,6 @@
 # Secure Authentication & Intrusion Detection System (Java)
 
-A Java cybersecurity project that simulates secure authentication, brute-force detection, account lockout, and security logging.
+My Java cybersecurity project that simulates secure authentication, brute-force detection, account lockout, and security logging.
 
 ## Features
 - SHA-256 password hashing
